@@ -26,7 +26,7 @@
           Para ter repositório em sua máquina, logo após copiá-lo:
           1- Abra o terminal Git Bash (botão direito do mouse);
           2- Vá até a pasta desejada ou crie uma nova;
-          3- Digite Git clone e a URL.</p>
+          3- Digite Git clone e a URL.
           
           
 <h3 align="center">Tecnologias utilizadas</h3>
