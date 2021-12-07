@@ -43,7 +43,7 @@
                   
 <h3 align="center">Autora</h3>
 
-<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/93830634?s=400&u=6adaba5d61e8bc151b25462fb36582bb32a7e146&v=4" width="100%;" alt=""/>
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/93830634?s=400&u=6adaba5d61e8bc151b25462fb36582bb32a7e146&v=4" width="100px;" height="100px;" alt=""/>
 
 <sub><b>Renata Brito</b></sub>
 
